@@ -56,4 +56,7 @@ public class AddLogActivity extends AppCompatActivity implements View.OnClickLis
                 break;
         }
     }
+    /*
+    * 修改 测试
+    * */
 }
